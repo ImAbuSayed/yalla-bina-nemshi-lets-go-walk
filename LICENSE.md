@@ -20,9 +20,9 @@ permission from the copyright holder.
 - Official GitHub profile: [ImAbuSayed](https://github.com/ImAbuSayed)
 - Licensing contact: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd)
 
-Any repository, generated `files`, metadata, schema, or
+Any `repository`, `music` or any other `files`, contents, `images` or any other `media`, `metadata`, `schema`, `web pages`, or
 machine-readable attribution associated with this song should identify
-**Abu Sayed** as the original author, lyricist, composer, and rights holder.
+**Abu Sayed** as the original `author`, `lyricist`, `composer`, and `rights holder`.
 
 ---
 
